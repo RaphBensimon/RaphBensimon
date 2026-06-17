@@ -1,17 +1,31 @@
-# 💫 About Me:
-🔭 I am currently working at mcledger as a vuejs front-end developer<br>👯 I am always open to new opportunities<br>
-🌱 I'm currently deepening my knowledge in web 3.0<br>
+# Raphaël Bensimon
 
+**Développeur front-end · Vue.js / Nuxt · 8 ans**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-bensimon/) 
+J'aime structurer le code pour durer — design system, composables, architecture — et faire monter les équipes avec qui je travaille. Référent technique sur l'écosystème Vue, de la start-up à l'éditeur logiciel.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphbensimon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Actuellement freelance chez **GHS** (édition de logiciels de paie et de gestion des contrats courts), et je construis en parallèle **YouthImmo**, une app mobile pour les primo-accédants en France.
+
+🔭 Ouvert aux nouvelles opportunités à partir de septembre 2026.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raphbensimon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Stack
+
+**Frameworks** — Vue.js · Nuxt · React Native / Expo
+**Langages** — TypeScript · JavaScript
+**Styles** — CSS · SCSS / SASS · Tailwind · NativeWind
+**State** — Pinia · Zustand · TanStack Query
+**Forms** — React Hook Form · Zod
+**Tests** — Playwright · Cypress · Vitest
+**Outils** — Vite · Git · Figma
+
+---
+
+## 🌐 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-bensimon/)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raphbensimon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
